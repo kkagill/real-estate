@@ -14,17 +14,17 @@ App = {
 		
   },
 
-	buyRealEstate: function() {	
-	
-	},
+  buyRealEstate: function() {	
+
+  },
 
   loadRealEstates: function() {
 	
-	},
+  },
 	
-	listenToEvents: function() {
+  listenToEvents: function() {
 	
-	}
+  }
 };
 
 $(function() {
