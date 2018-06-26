@@ -3,7 +3,7 @@ module.exports = {
      // to customize your Truffle configuration!
      networks: {
           ganache: {
-               host: "127.0.0.1",
+               host: "localhost",
                port: 7545,
                network_id: "*" // Match any network id
           }
